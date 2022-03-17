@@ -1,11 +1,3 @@
-# Treehouse Prerequisites:
-
-Finish the following chapters/steps from [this course](https://teamtreehouse.com/library/python-basics-3) on treehouse:
-
-- Chapter "**Functions and Looping**": Up-to and including "**Create a Function**"
-
----
-
 # Fork & Clone
 
 Fork and clone [this repository](https://github.com/JoinCODED/age-calculator) in your `python` directory.

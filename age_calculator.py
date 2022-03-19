@@ -1,14 +1,20 @@
-from datetime import datetime
+from datetime import date
 
-def check_birthdate(year, month, day):
-	# write code here
 
-def calculate_age(year, month, day):
+def get_dob():
     # write code here
+	...
+
+
+def get_age(dob):
+    # write code here
+	...
+
 
 def main():
-	# write main code here
+	# write code here
+	...
 
 
 if __name__ == '__main__':
-	main()
+    main()
